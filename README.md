@@ -8,11 +8,11 @@
 </a>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=Slided&title_color=603F8B&text_color=603F8B&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=Slided&title_color=603F8B&text_color=603F8B&show_icons=true&bg_color=00000000&hide_border=true&icon_color=603F8B&hide_title=true&count_private=true" />
 </p>
 
 <p align="center">
-  <a href="https://www.anxious.cc">anxious.cc</a>
+  <a href="https://www.anxious.cc" style="color:#603F8B;">anxious.cc</a>
 </p>
 
 ![](https://hit.yhype.me/github/profile?account_id=88856468)
