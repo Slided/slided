@@ -3,7 +3,7 @@
 <p align="center">❤️</p>
 <a href="https://github.com/Slided">
   <div style="display:block; margin:0 auto;">
-    <img src="https://komarev.com/ghpvc/?username=Slided" style="display:block; margin:0 auto;" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=Slided&color=603F8B" style="display:block; margin:0 auto;" alt="Profile Views">
   </div>
 </a>
 
