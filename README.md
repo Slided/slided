@@ -3,7 +3,7 @@
 <p align="center">❤️</p>
 <a href="https://github.com/Slided">
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Slided" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=Slided" align="center" alt="Profile Views">
   </p>
 </a>
 
