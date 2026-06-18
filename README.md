@@ -2,9 +2,9 @@
 <h1 align="center">Anxious</h1>
 <p align="center">❤️</p>
 <a href="https://github.com/Slided">
-  <p align="center">
+  <div align="center">
     <img src="https://komarev.com/ghpvc/?username=Slided" align="center" alt="Profile Views">
-  </p>
+  </div>
 </a>
 
 <p align="center">
